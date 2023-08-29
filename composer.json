@@ -1,0 +1,19 @@
+{
+  "name": "karthus/etcd-client",
+  "description": "a ETCD v3 Client for php",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "karthus\\etcd\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Min",
+      "email": "294953530@qq.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.8"
+  }
+}
