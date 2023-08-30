@@ -2,6 +2,7 @@
   "name": "karthus/etcd-client",
   "description": "a ETCD v3 Client for php",
   "type": "library",
+  "version": "v1.0.0",
   "autoload": {
     "psr-4": {
       "karthus\\etcd\\": "src/"
